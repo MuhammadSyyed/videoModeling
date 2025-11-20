@@ -10,3 +10,4 @@ datasets/
 *.avi
 *.mov
 
+**/dataset/

@@ -1,22 +1,11 @@
-
-
 datasets/
-*/datasets/
-**/datasets/
-dataset/
-**/dataset/
 
 *.pth
-*.pt
-outputs_task1/
-*/outputs_task1/
-**/outputs_task1/
 
-# ignore notebooks cache
 .ipynb_checkpoints/
+
 **/.ipynb_checkpoints/
 
-# ignore video files
 *.mp4
 *.avi
 *.mov
